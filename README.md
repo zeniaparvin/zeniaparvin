@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-🔭 I’m currently pushing Computer application(BCA).
-🌱 I’m currently learning React and MySql.
-💬 Ask me about regarding my skills.
-📫 Reach me on LinkedIn.
-⚡ Fun fact: The first computer virus was a Creeper.
+--🔭 I’m currently pushing Computer application(BCA).
+--🌱 I’m currently learning React and MySql.
+--💬 Ask me about regarding my skills.
+--📫 Reach me on LinkedIn.
+--⚡ Fun fact: The first computer virus was a Creeper.
 
 
 ---
